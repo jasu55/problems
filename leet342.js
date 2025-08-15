@@ -1,6 +1,6 @@
 // n =4**x find x
 
-let n = 16;
+let n = 20;
 function divideBy4(n) {
   n /= 4;
   if (n === 1) {
